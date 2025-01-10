@@ -21,7 +21,7 @@ This tool is ideal for students, researchers, podcasters, and professionals seek
 - **Q&A Chat**: Engage in AI-driven Q&A for detailed exploration of audio content.  
 - **Session Tracking**: Maintain history for summaries and Q&A within each session.  
 - **Streamlined Interface**: A user-friendly, web-based UI built with Streamlit.  
-
+---
 ## 🛠️ Installation  
 
 ### Prerequisites  
