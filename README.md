@@ -14,6 +14,7 @@ Audix is an intuitive, Streamlit-based application that leverages **Google's Gem
 This tool is ideal for students, researchers, podcasters, and professionals seeking to quickly analyze and extract valuable insights from audio recordings.
 
 ---
+
 ## ✨ Features  
 - **Multi-Audio File Support**: Process and summarize multiple audio files simultaneously.  
 - **Accurate Summarization**: Powered by **Google Generative AI**, delivering high-quality summaries.  
@@ -22,6 +23,7 @@ This tool is ideal for students, researchers, podcasters, and professionals seek
 - **Streamlined Interface**: A user-friendly, web-based UI built with Streamlit.  
 
 ---
+
 ## 🛠️ Installation  
 
 ### Prerequisites  
@@ -52,6 +54,7 @@ This tool is ideal for students, researchers, podcasters, and professionals seek
    ```  
 
 ---
+
 ## 📖 How It Works  
 1. **Upload**: Select audio files in supported formats and upload them.  
 2. **Summarize**: Click the "Summarize" button for AI-generated summaries.  
@@ -67,10 +70,12 @@ This tool is ideal for students, researchers, podcasters, and professionals seek
 - **dotenv**: To securely manage environment variables.  
 
 ---
+
 ## 🤝 Contribution  
 Contributions are welcome! Feel free to open issues, suggest features, or submit pull requests to improve the app.  
 
 ---
+
 ## 🌟 Why Choose Audix?  
 Audix transforms the way you engage with audio content, offering time-saving AI-driven solutions for individuals and teams alike. It’s perfect for:  
 - **Students & Educators**: Summarize lectures and answer detailed questions.  
@@ -79,6 +84,7 @@ Audix transforms the way you engage with audio content, offering time-saving AI-
 - **Businesses**: Quickly summarize meetings or interviews for actionable insights.  
 
 ---
+
 ## 📝 License  
 This project is licensed under the **MIT License**.  
 
