@@ -31,8 +31,7 @@ This tool is ideal for students, researchers, podcasters, and professionals seek
 ### Steps  
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/Akanksha4554
-/Audix-Aud_summarizer_Q&A.git
+   git clone https://github.com/Akanksha4554/Audix-Aud_summarizer_Q&A.git
    cd Audix-Aud_summarizer_Q&A
    ```  
 
