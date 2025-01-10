@@ -31,7 +31,8 @@ This tool is ideal for students, researchers, podcasters, and professionals seek
 ### Steps  
 1. **Clone the Repository**:  
    ```bash
-   git clone https://github.com/your-username/Audix-Aud_summarizer_Q&A.git
+   git clone https://github.com/Akanksha4554
+/Audix-Aud_summarizer_Q&A.git
    cd Audix-Aud_summarizer_Q&A
    ```  
 
@@ -69,17 +70,17 @@ This tool is ideal for students, researchers, podcasters, and professionals seek
 
 ---
 
-## 🤝 Contribution  
-Contributions are welcome! Feel free to open issues, suggest features, or submit pull requests to improve the app.  
-
----
-
 ## 🌟 Why Choose Audix?  
 Audix transforms the way you engage with audio content, offering time-saving AI-driven solutions for individuals and teams alike. It’s perfect for:  
 - **Students & Educators**: Summarize lectures and answer detailed questions.  
 - **Podcasters**: Extract key insights from episodes.  
 - **Researchers**: Analyze audio data with precision.  
-- **Businesses**: Quickly summarize meetings or interviews for actionable insights.  
+- **Businesses**: Quickly summarize meetings or interviews for actionable insights.
+
+---
+
+## 🤝 Contribution  
+Contributions are welcome! Feel free to open issues, suggest features, or submit pull requests to improve the app.  
 
 ---
 
