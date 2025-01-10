@@ -12,6 +12,7 @@ Audix is an intuitive, Streamlit-based application that leverages **Google's Gem
 - **Session History**: Maintain a log of summaries and Q&A conversations for multiple audio files.  
 
 This tool is ideal for students, researchers, podcasters, and professionals seeking to quickly analyze and extract valuable insights from audio recordings.
+
 ---
 
 ## ✨ Features  
@@ -20,8 +21,6 @@ This tool is ideal for students, researchers, podcasters, and professionals seek
 - **Q&A Chat**: Engage in AI-driven Q&A for detailed exploration of audio content.  
 - **Session Tracking**: Maintain history for summaries and Q&A within each session.  
 - **Streamlined Interface**: A user-friendly, web-based UI built with Streamlit.  
-
----
 
 ## 🛠️ Installation  
 
