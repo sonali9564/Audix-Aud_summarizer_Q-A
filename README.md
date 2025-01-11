@@ -8,8 +8,7 @@
 ## 🚀 About Audix  
 Audix is an intuitive, Streamlit-based application that leverages **Google's Gemini 1.5 Pro Model** to process audio files. The app is designed to:  
 - **Summarize Audio**: Upload audio files in WAV, MP3, MP4, or OGG formats to get concise, AI-generated summaries.  
-- **Interactive Q&A**: Ask specific questions about the audio and receive accurate, context-aware responses.  
-- **Session History**: Maintain a log of summaries and Q&A conversations for multiple audio files.  
+- **Interactive Q&A**: Ask specific questions about the audio and receive accurate, context-aware responses.   
 
 This tool is ideal for students, researchers, podcasters, and professionals seeking to quickly analyze and extract valuable insights from audio recordings.
 
