@@ -37,7 +37,7 @@ def answer_question(audio_file_path, question):
                 audio_file
             ]
         )
-        return response.text  
+        return response.text
     except Exception as e:
         st.error(f"Error during Q&A: {str(e)}")
         return None
